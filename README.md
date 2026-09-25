@@ -16,7 +16,7 @@ How accurately and repeatably can a low-cost camera-and-grating spectrometer loc
 
 ## Start here
 
-1. Read [the full project plan](docs/PROJECT_PLAN.md), including the safety and purchasing gates.
+1. Read [the M0 design review](docs/M0_DESIGN_REVIEW.md), then [the full project plan](docs/PROJECT_PLAN.md), including the safety and purchasing gates.
 2. Review [the bill of materials](docs/BOM.md); check prices and stock again before buying.
 3. Build a camera spectrometer against ordinary visible light sources before purchasing the discharge source. [Digital-Spectroscope](https://github.com/joshbrew/Digital-Spectroscope) is one optional reference for printable mounts; do not present its files as your own.
 4. After the optical prototype works, use only the matched commercial sealed tube and enclosed supply, following the manufacturer's manual.
