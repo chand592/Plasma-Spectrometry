@@ -5,7 +5,7 @@ Prices are CAD observations from 25 September 2026 where marked **listed**; all 
 | Item | Qty | CAD | Source / decision |
 | --- | ---: | ---: | --- |
 | Phone or USB camera | 1 | $0 if owned; otherwise quote | Choose one with manual focus/exposure if possible. |
-| Transmission diffraction grating | 1 | $15–40 allowance | Purchase educational optics grating; document line density and vendor. |
+| Transmission diffraction grating | 1 | **$2.70 listed** for mounted film; delivered cost TBD | [SCIEDCO Canada, 1000 lines/mm, 50 mm mount](https://sciedco.ca/diffraction-interference/diffraction-grating-film-1000-lines-mm-in-50-mm-x-50-mm-cardboard-mount-22/). Confirm shipping and stock before ordering. |
 | Opaque housing, slit material, fasteners | 1 set | $15–40 allowance | Cardboard/foam-board prototype, then printed or machined rigid version. |
 | Stable phone/camera mount | 1 | $0–60 allowance | Make/print or reuse tripod. |
 | Vernier Spectrum Tube Single Power Supply ST-SPS | 1 | **$627 listed** | [Vendor listing](https://www.verniercanada.ca/product/lab-equipment/spectrum-tube-single-power-supply/); matched enclosed source only. |
@@ -14,7 +14,7 @@ Prices are CAD observations from 25 September 2026 where marked **listed**; all 
 | Python with NumPy, Pillow, Matplotlib | — | $0 | Local analysis; `requirements.txt` supplied. |
 | Computer | 1 | $0 if owned | For CAD and analysis. |
 
-**Base target:** about **$855–$965 CAD before tax and shipping** if you own the camera/computer. This is an arithmetic planning range, not a checkout total. The power supply plus two tubes accounts for $825.
+**Base target:** about **$843–$928 CAD before tax and shipping** if you own the camera/computer and use the listed grating. This is an arithmetic planning range, not a checkout total. The power supply plus two tubes accounts for $825. For M0/M1, budget just the grating, housing material and any mount you need; delivered grating cost may be much higher than its item price.
 
 ### Optional, independent vacuum engineering module
 
